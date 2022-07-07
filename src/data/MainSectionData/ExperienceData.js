@@ -12,7 +12,7 @@ export const ExperienceData = {
         enterprise: "Sancrisoft",
         time: "Jun 2021 - Present",
         description:
-          "I worked for severals clients, using several frameworks like React.js, Next.js, Express. js, React Native, and some Databases like MySQL and Mongo",
+          "I worked for severals clients, using several frameworks like React.js, Next.js, Express.js, React Native, and some Databases like MySQL and Mongo",
         tasks: [
           "Full-stack (React, Node. Express, MySQL) for support and development for an application that captures data from oculus and stores it in a cloud DB",
           "Full-stack (React, React Native, Node, Express, MySQL) for 5 applications for cruise administration",
