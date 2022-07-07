@@ -22,7 +22,7 @@ export const ExperienceData = {
         ],
       },
       {
-        position: "Mentor & Ambassador",
+        position: "Mentor & Ambassador (React Native)",
         enterprise: "Bright Coders Academy (Magmalabs)",
         time: "May 2021 - Present",
         description: "Mentoring Jr developers",
